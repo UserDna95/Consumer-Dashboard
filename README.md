@@ -289,6 +289,7 @@ When examining total sales by customer and market between 2020 and 2021, Amazon 
 > Page 2: "Product Details" 
 When examining the discounted prices across various customers and markets, it becomes apparent that Amazon and India offer the most substantial discounts. Additionally, this page provides insights into the manufacturing costs and pricing of products by segment. Typically, Desktops and Notebooks emerge as the highest costing product types, while Accessories and Storage products tend to have the lowest costs. Interestingly, Accessories witnessed the most significant increase in unique product offerings from 2020 to 2021, followed by Notebooks and Peripherals. This trend could be attributed to the lower manufacturing costs associated with more affordable product types like Accessories, facilitating greater variety.
 
+Consumer Dashboard (Excel, Power BI, SQL)
 ![Screen Shot 2025-03-02 at 5 31 38 AM](https://github.com/UserDna95/Consumer-Dashboard/blob/main/2025-03-02%20(4).png) 
 ![Screen Shot 2025-03-02 at 5 31 38 AM](https://github.com/UserDna95/Consumer-Dashboard/blob/main/2025-03-02%20(5).png) 
 
