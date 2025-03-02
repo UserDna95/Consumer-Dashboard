@@ -277,8 +277,6 @@ total_price_post_discount =
 Step 2)
 Data Structure Overview in Power BI 
 
-## Screenshots
-
 ![Screen Shot 2025-03-02 at 5 31 38 AM](https://github.com/UserDna95/Consumer-Dashboard/blob/main/2025-03-02%20(6).png) 
 
 Step 3) 
